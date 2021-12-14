@@ -14,14 +14,18 @@ Note that the important aspects are genre, dancer and music. The other tags are 
 
 # TERMS OF USE
 
-Please read carefully the following terms and conditions and any accompanying documentation before you download and/or use the KTH Dance Dataset. By downloading and/or using the dataset, you acknowledge that you have read these terms and conditions, understand them, and agree to be bound by them. You also acknowledge that all MUSIC AUDIO has their own Copyright Holders and is not subjected to this license. After downloading the data, you shall at all times be responsible for ensuring the data is stored securely.
+Please read carefully the following terms and conditions and any accompanying documentation before you download and/or use the KTH Dance Dataset. By downloading and/or using the dataset, you acknowledge that you have read these terms and conditions, understand them, and agree to be bound by them. **You also acknowledge that all MUSIC AUDIO has their own Copyright Holders and is not subjected to this license**. After downloading the data, you shall at all times be responsible for ensuring the data is stored securely.
+
 **Non-commercial use**
+
 The KTH Dance Dataset is free to use for research purposes by academic institutes, companies, and individuals. Use for commercial purposes is not permitted without prior written consent. This includes, without limitation, incorporation in a commercial product, use in a commercial service, or training machine learning algorithms for commercial purposes. If you are interested in using KTH Dance Dataset for commercial purposes or non-research purposes, please contact simonal@kth.se in advance.
 
 **No redistribution**
+
 Unauthorized redistribution of any content of the database is prohibited.
 
 **Attribution**
+
 Please clearly indicate the name of the dataset, "KTH Dance Dataset", when using the data. When mentioning this database in an academic paper, please cite the following paper as a reference:
 
 ```
